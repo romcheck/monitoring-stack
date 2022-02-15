@@ -1,0 +1,5 @@
+name: monitoring-stack
+runtime: nodejs
+description: A minimal Kubernetes TypeScript Pulumi program
+backend:
+  config: file://.state

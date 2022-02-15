@@ -1,0 +1,3 @@
+encryptionsalt: v1:W07qK9lXuaA=:v1:tAUnAdT4d6DMCM8B:S4KXgwIFxS+TSxRUPU0AUzmcMnlw8Q==
+config:
+  monitoring-stack:kubeconfig_context: docker-desktop
